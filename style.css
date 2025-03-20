@@ -299,7 +299,7 @@ footer {
 /* Importing Google font - Open Sans */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
 
-* {
+ {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -397,7 +397,10 @@ footer {
   gap: 30px;
   cursor: pointer;
 }
-
+.footer-center{
+  color: #fff;
+  margin-bottom: 30px;
+}
 .footer-col .icons i {
   color: #afb6c7;
 }
