@@ -44,7 +44,7 @@ nav img{
 nav a{
   font-size: 1vw;
   text-decoration: none;
-  color: #3c4043;
+  color: #000;
   cursor: pointer;
 }
 nav i{
@@ -87,8 +87,8 @@ z-index: 0;
 }
 
 nav button:hover {
-background: #F6F9FE;
-color: #174ea6;
+background: #C2A833;
+color: #C2A833;
 }
 
 .cntr-nav{
