@@ -40,7 +40,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #e91e63;
+	background-color: #9F015E;
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
@@ -80,7 +80,7 @@ ul{
 }
 .footer-center{ 
      margin-top: 20px;
-	 margin-tbottom: 0px;
+	 margin-bottom: 0px;
 	color: #bbbbbb;
 }
 

@@ -1,11 +1,7 @@
-/* Project Name: Number Counting Animation
-Youtube: https://youtube.com/@devRasen
-Copyright: ©MdRasen */
 
-/* Google Font */
 @import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@300;400;500;600;700&display=swap");
 
-/* General CSS */
+
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +21,7 @@ html, body{
   width: 100%;
   min-height: 30vh;
 
-  background-color: rgb(57, 204, 57);
+  background-color: #9F015E;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -42,15 +38,13 @@ html, body{
  font-family: 'Times New Roman', Times, serif;
 }
 
-
-/* Custom CSS */
 .container12 {
   width: 100%;
   min-height: 40vh;
-  background: linear-gradient(rgb(255, 255, 255), #fdcece), url(assets/bg.jpg);
+  background: linear-gradient(#FFF4D5(255, 255, 255), #FFF4D5), url(assets/bg.jpg);
   background-size:cover;
   background-position: center;
-  color: #ddb2b2;
+  color: #dfbf69;
   display: flex;
   flex-direction: column;
   justify-content: center;

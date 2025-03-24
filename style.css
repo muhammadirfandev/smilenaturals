@@ -98,7 +98,7 @@ nav {
 }
 
 .section1 {
-  background: #928a8e;
+  background: #FFF4D5;
   background-size: cover;
   background-position: center;
 }
@@ -187,7 +187,7 @@ left: 220px;
 .section2 .lft {
   width: 50%;
   height: 100%;
-  background-color: #800080; 
+  background-color: #9F015E; 
 }
 
 .section2 .rght {
@@ -196,7 +196,7 @@ left: 220px;
   align-items: start;
   gap: 5vh;
   padding: 0vw 10vw 0vw 0vw;
-  background-color: #800080;
+  background-color: #9F015E;
 }
 
 .magicpattern {
@@ -221,7 +221,7 @@ left: 220px;
 
 .section2 .rght button {
   padding: 1vw 2vw;
-  background-color: #d54369;
+  background-color: #ffffff;
   /* border: none; */
 border-radius: 20px;
   /* color: #fff; */
@@ -232,12 +232,14 @@ border-radius: 20px;
 .section3 {
   gap: 5vw;
   overflow: hidden;
+  background-color: #FFF4D5;
+  
 }
 
 .section3 .card {
   width: 25vw;
   height: 70vh;
-  background-color: #fff2e5;
+  background-color: #fff;
   padding: 1vw;
   gap: 2vh;
   border-radius: 20px;
@@ -261,7 +263,7 @@ border-radius: 20px;
 
 .card button {
   padding: 1vw 2vw;
-  background-color: #d54369;
+  background-color: #9F015E;
   border-radius: 20px;
 }
 

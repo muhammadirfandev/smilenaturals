@@ -30,7 +30,7 @@ nav {
 }
 
 .logo a span {
-  color: #8739fa;
+  color: #9F015E;
 }
 
 .menu {
@@ -45,9 +45,8 @@ nav {
   font-size: 17px;
   font-weight: 500;
   transition: 0.2s all ease-in-out;
-  color: #d8446a;
+  color: #9F015E;
 }
-
 .menu:hover a {
   opacity: 0.4;
 }
