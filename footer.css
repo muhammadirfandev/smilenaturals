@@ -82,9 +82,10 @@ ul{
      margin-top: 20px;
 	 margin-bottom: 0px;
 	color: #bbbbbb;
-	text-align: center;
 }
-
+.copyright-text {
+    text-align: center; 
+}
 /*responsive*/
 @media(max-width: 767px){
   .footer-col{
